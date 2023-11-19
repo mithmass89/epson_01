@@ -1,4 +1,4 @@
-group 'com.tlt.epson_epos'
+group 'com.tlt.epson_epos1'
 version '1.0-SNAPSHOT'
 
 buildscript {
